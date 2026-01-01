@@ -1,5 +1,7 @@
 body{
     background-color: #fff4e1;
+    font-family: "Comfortaa", sans-serif;
+;
 
 }
 
@@ -44,6 +46,49 @@ li{
     color:tomato;
     padding: 10px 15px;
     margin-top: -10px;
-
 }
 
+#main{
+     color: tomato;
+     font-size: 50px;
+    margin-left: 110px;
+    margin-top: 70px;
+    font-weight: bolder;
+}
+
+p{
+    color:black;
+    margin-left: 110px;
+    margin-top: -10px;
+}
+
+#image{
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    font-size: 20px;
+    padding: 10px 20px;
+    width: 200px;
+    height: 70px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#image:hover{
+    background-color: white;
+    color: tomato;
+}
+
+#egg{
+    margin-left: 800px;
+}
+ .hero{
+    margin-top: -950px;
+ }
+
+ .arrow{
+    margin-left: 600px;
+    margin-bottom: 200px;
+    width: 300px;
+ }
