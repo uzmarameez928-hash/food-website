@@ -1,6 +1,6 @@
 body{
     background-color: #fff4e1;
-    font-family: "Comfortaa", sans-serif;
+    font-family: "Lexend", sans-serif;
 ;
 
 }
@@ -53,8 +53,10 @@ li{
      font-size: 50px;
     margin-left: 110px;
     margin-top: 70px;
-    font-weight: bolder;
+    font-weight: bold;
 }
+
+
 
 p{
     color:black;
@@ -91,4 +93,10 @@ p{
     margin-left: 600px;
     margin-bottom: 200px;
     width: 300px;
+ }
+
+ #order{
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
  }
